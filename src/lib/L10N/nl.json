@@ -33,7 +33,7 @@
 			"title": "Klik/Tik om de expander {action} ",
 			"ariaLabel": "{title}: Klik/Tik om de expander {action}",
 			"actions": {
-				"open": "te opnen",
+				"open": "te openen",
 				"close": "te sluiten"
 			}
 		},
